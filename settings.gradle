@@ -1,0 +1,5 @@
+rootProject.name = 'jd_homework_4_2'
+include 'db'
+include 'api'
+include 'service'
+
